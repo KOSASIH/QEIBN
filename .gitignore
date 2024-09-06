@@ -1,2 +1,23 @@
-# Google App Engine generated folder
-appengine-generated/
+# Ignore build directories
+/build
+/deploy
+
+# Ignore Rust build artifacts
+ai-model-trainer/target
+
+# Ignore Go build artifacts
+node-architecture/node
+
+# Ignore entanglement simulator build artifacts
+tools/entanglement-simulator/entanglement-simulator
+
+# Ignore tarballs
+*.tar.gz
+
+# Ignore IDE files
+.idea
+.vscode
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
