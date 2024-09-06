@@ -21,6 +21,7 @@ The simulator uses a combination of quantum algorithms and machine learning mode
 The simulator designs a quantum circuit using Qiskit, a popular open-source quantum development environment. The circuit is optimized for entanglement generation using a combination of quantum gates and measurements.
 
 ```python
+
 1. # Import required libraries
 2. from qiskit import QuantumCircuit, execute
 3. 
@@ -41,6 +42,7 @@ The simulator designs a quantum circuit using Qiskit, a popular open-source quan
 The simulator trains a machine learning model using a large dataset of entangled particles. The model is trained to predict the optimal entanglement parameters for secure data transmission and processing.
 
 ```python
+
 1. # Import required libraries
 2. from sklearn.ensemble import RandomForestClassifier
 3. from sklearn.model_selection import train_test_split
@@ -64,6 +66,7 @@ The simulator trains a machine learning model using a large dataset of entangled
 The simulator generates entangled particles using the optimized quantum circuit and machine learning model. The generated particles are then managed and stored securely for future use.
 
 ```python
+
 1. # Generate entangled particles
 2. entangled_particles = generate_entangled_particles(qc, model)
 3. 
