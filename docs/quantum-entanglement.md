@@ -45,21 +45,21 @@ The simulator trains a machine learning model using a large dataset of entangled
 2. from sklearn.ensemble import RandomForestClassifier
 3. from sklearn.model_selection import train_test_split
 4. from sklearn.metrics import accuracy_score
+5. 
+6. # Load the dataset
+7. dataset = pd.read_csv('entanglement_data.csv')
+8. 
+9. # Split the dataset into training and testing sets
+10. X_train, X_test, y_train, y_test = train_test_split(dataset.drop('label', axis=1), dataset['label'], test_size=0.2, 11. random_state=42)
+12. 
+13. # Train the machine learning model
+14. model = RandomForestClassifier(n_estimators=100, random_state=42)
+15. model.fit(X_train, y_train)
+16. 
+17. # Evaluate the model
+18. y_pred = model.predict(X_test)
+19. print('Model accuracy:', accuracy_score(y_test, y_pred))
 ```
-
-# Load the dataset
-dataset = pd.read_csv('entanglement_data.csv')
-
-# Split the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(dataset.drop('label', axis=1), dataset['label'], test_size=0.2, random_state=42)
-
-# Train the machine learning model
-model = RandomForestClassifier(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
-
-# Evaluate the model
-y_pred = model.predict(X_test)
-print('Model accuracy:', accuracy_score(y_test, y_pred))
 3. Entanglement Generation and Management
 The simulator generates entangled particles using the optimized quantum circuit and machine learning model. The generated particles are then managed and stored securely for future use.
 
