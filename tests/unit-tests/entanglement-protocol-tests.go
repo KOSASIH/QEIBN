@@ -43,3 +43,19 @@ func TestVerifySignature(t *testing.T) {
 	err := node.VerifySignature(packet, sig)
 	assert.NoError(t, err)
 }
+
+func TestHandleIncomingPacket(t *testing.T) {
+    chainKey, _ := crypto.GenerateKey()
+    node := node.NewNode("node1", chainKey, log.NewNopLogger())
+    packet, _ := node.CreatePacket("src_chain_id", "src_port_id", "src_channel_id", "dest_chain_id", "dest_port_id", "dest_channel_id", []byte("data"))
+    err := node.handleIncomingPacket(packet)
+    assert.NoError(t, err)
+}
+
+func TestSendPacket(t *testing.T) {
+    chainKey, _ := crypto.GenerateKey()
+    node := node.NewNode("node1", chainKey, log.NewNopLogger())
+    packet, _ := node.CreatePacket("src_chain_id", "src_port_id", "src_channel_id", "dest_chain_id", "dest_port_id", "dest_channel_id", []byte("data"))
+    err := node.SendPacket(packet, "dest_node_id")
+    assert.NoError(t, err)
+}
