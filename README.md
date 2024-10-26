@@ -89,6 +89,15 @@
 [![TOGAF 9 Certified](https://img.shields.io/badge/TOGAF%209-Certified-0072B1.svg)](https://www.opengroup.org/togaf)
 [![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-FFB300.svg)](https://www.isc2.org/Certifications/CISSP)
 [![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5.svg)](https://www.cncf.io/certification/cka/)
+[![CompTIA Advanced Security Practitioner](https://img.shields.io/badge/CompTIA-Advanced_Security_Practitioner-FF7F50.svg)](https://www.comptia.org/certifications/advanced-security-practitioner)
+[![Certified Information Security Manager](https://img.shields.io/badge/ISACA-Certified_Information_Security_Manager-0072C6.svg)](https://www.isaca.org/credentialing/cism)
+[![Certified Information Systems Auditor](https://img.shields.io/badge/ISACA-Certified_Information_Systems_Auditor-0072C6.svg)](https://www.isaca.org/credentialing/cisa)
+[![Certified in Risk and Information Systems Control](https://img.shields.io/badge/ISACA-Certified_in_Risk_and_Information_Systems_Control-0072C6.svg)](https://www.isaca.org/credentialing/crisc)
+[![Certified in the Governance of Enterprise IT](https://img.shields.io/badge/ISACA-Certified_in_the_Governance_of_Enterprise_IT-0072C6.svg)](https://www.isaca.org/credentialing/cgeit)
+[![Certified Blockchain Developer](https://img.shields.io/badge/Blockchain_Council-Certified_Blockchain_Developer-orange.svg)](https://www.blockchain-council.org/certifications/certified-blockchain-developer/)
+[![Certified AI Engineer](https://img.shields.io/badge/AI%20Council-Certified_AI_Engineer-FFCC00.svg)](https://www.aicouncil.org/certifications/certified-ai-engineer/)
+[![Certified Data Analyst](https://img.shields.io/badge/IBM-Certified_Data_Analyst-5C5C5C.svg)](https://www.ibm.com/certify/cert?id=50001302)
+[![Certified Machine Learning Engineer](https://img.shields.io/badge/IBM-Certified_Machine_Learning_Engineer-5C5C5C.svg)](https://www.ibm.com/certify/cert?id=50001303)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QEIBN">QEIBN ( Quantum Entangled Inter-Blockchain Network ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
