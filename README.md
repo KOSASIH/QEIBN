@@ -86,7 +86,6 @@
 [![PMP Certification](https://img.shields.io/badge/PMP-Certified-0072B1.svg)](https://www.pmi.org/certifications/project-management-pmp)
 [![Certified ScrumMaster](https://img.shields.io/badge/Certified%20ScrumMaster-CSM-FF6F20.svg)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrum-master)
 [![ITIL Foundation](https://img.shields.io/badge/ITIL-Foundation-5B9BD5.svg)](https://www.axelos.com/certifications/itil)
-[![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-5C5C5C.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 [![TOGAF 9 Certified](https://img.shields.io/badge/TOGAF%209-Certified-0072B1.svg)](https://www.opengroup.org/togaf)
 [![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-FFB300.svg)](https://www.isc2.org/Certifications/CISSP)
 [![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5.svg)](https://www.cncf.io/certification/cka/)
